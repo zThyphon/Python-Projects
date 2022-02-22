@@ -1,0 +1,8 @@
+This QR Code Creator developed by zThyphon.
+You can find open source code of this application on github.(https://github.com/zThyphon)
+
+
+About Application
+Don't change directory of QR Code Creator application otherwise application doesn't work correctly. 
+
+

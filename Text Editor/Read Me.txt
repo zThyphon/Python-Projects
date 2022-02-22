@@ -1,0 +1,7 @@
+This Text Editor developed by zThyphon.
+You can find open source code of this application on github.(https://github.com/zThyphon)
+
+About Application
+Don't change directory of Text Editor application otherwise application doesn't work correctly. 
+
+
